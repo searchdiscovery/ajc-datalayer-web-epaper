@@ -1,4 +1,4 @@
-# Ad Query
+# Edition Download
 
 ### 
 
@@ -6,7 +6,7 @@
 ```js
 window.dataLayer = window.dataLayer || [];
 dataLayer.push({
-  "event": "ad_query"
+  "event": "EditionDownload"
 });
 ```
 

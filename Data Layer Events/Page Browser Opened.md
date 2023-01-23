@@ -1,4 +1,4 @@
-# Dark Mode State
+# Page Browser Opened
 
 ### 
 
@@ -6,15 +6,6 @@
 ```js
 window.dataLayer = window.dataLayer || [];
 dataLayer.push({
-  "event": "dark_mode_toggle",
-  "detailed_event": "Dark Mode State"
+  "event": "PageBrowserOpened"
 });
 ```
-
-
-
-
-
-
-
-

@@ -1,4 +1,4 @@
-# Ad Exposure
+# Session Start
 
 ### 
 
@@ -6,7 +6,7 @@
 ```js
 window.dataLayer = window.dataLayer || [];
 dataLayer.push({
-  "event": "ad_exposure"
+  "event": "session_start"
 });
 ```
 
